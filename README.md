@@ -7,6 +7,7 @@ Last modified: July 3, 2017
 We may collect the following types of information:
 
 BackApps on Google Drive (Google Inc.)
+
 Information you provide – BackApps get access to the list of accounts in the Accounts Service of your device through permissions. Choosing an account to save your backup to that respective Google Drive account.
 Google Drive is a service to save and manage BackApps provided by Google Inc.
  
