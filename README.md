@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Privacy Policy of BackApps
 
-You can use the [editor on GitHub](https://github.com/pinkywalve/pinkywalve.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Last modified: July 3, 2017
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Information Collection and Use
 
-### Markdown
+We may collect the following types of information:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+BackApps on Google Drive (Google Inc.)
+Information you provide – BackApps get access to the list of accounts in the Accounts Service of your device through permissions. Choosing an account to save your backup to that respective Google Drive account.
+Google Drive is a service to save and manage BackApps provided by Google Inc.
+ 
+Crash and usage data – If you use our android products, BackApps may receive anonymous crash and usage data of your android device and apps.
 
-```markdown
-Syntax highlighted code block
+BackApps does not process or share personal information.
 
-# Header 1
-## Header 2
-### Header 3
+### Information security
 
-- Bulleted
-- List
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request is retained on your device and is not collected by me in any way
+The app does use third party services that may collect information used to identify you.
+Link to privacy policy of third party service providers used by the app
+- Google Play Services
+- AdMob
 
-1. Numbered
-2. List
+We do not store personal data anywhere else other than in your Google Drive space(hidden appfolder for BackApps).
 
-**Bold** and _Italic_ and `Code` text
+Ads by Google Admob
 
-[Link](url) and ![Image](src)
-```
+https://support.google.com/admob
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pinkywalve/pinkywalve.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This privacy policy relates solely to this Application.
+If you have any questions about this Privacy Policy, please feel free to contact us at walve.backapps@gmail.com
