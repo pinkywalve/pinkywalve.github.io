@@ -20,14 +20,10 @@ BackApps does not process or share personal information.
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request is retained on your device and is not collected by me in any way
 The app does use third party services that may collect information used to identify you.
 Link to privacy policy of third party service providers used by the app
-- Google Play Services
-- AdMob
+- [Google Play Services](https://www.google.com/policies/privacy/)
+- [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
 We do not store personal data anywhere else other than in your Google Drive space(hidden appfolder for BackApps).
-
-Ads by Google Admob
-
-https://support.google.com/admob
 
 This privacy policy relates solely to this Application.
 If you have any questions about this Privacy Policy, please feel free to contact us at walve.backapps@gmail.com
