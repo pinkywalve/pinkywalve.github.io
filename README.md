@@ -23,7 +23,7 @@ Link to privacy policy of third party service providers used by the app
 - [Google Play Services](https://www.google.com/policies/privacy/)
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
-We do not store personal data anywhere else other than in your Google Drive space(hidden appfolder for BackApps).
+We do not store personal data anywhere else other than in your Google Drive space.
 
 This privacy policy relates solely to this Application.
 If you have any questions about this Privacy Policy, please feel free to contact us at walve.backapps@gmail.com
